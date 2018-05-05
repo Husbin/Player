@@ -28,5 +28,6 @@ npm run build --report
 ### vue-video-player
 使用`vue-video-player(videojs)` + `videojs-contrib-hls`,支持绝大部分PC、移动设备。
 
-
+### 切换
+没做，直接在/router/index.js中手动切换路由。
 
