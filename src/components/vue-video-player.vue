@@ -23,7 +23,7 @@
           sources: [{
             withCredentials: false,
             type: "application/x-mpegURL",
-            src: "https://cn-jxjj-dx-live-01.live-play.acgvideo.com/live-bvc/live_20165629_5904889.m3u8?expires=1526111544&ssig=U_wsYr639DbZE6e6tDQdbA&oi=3658513157"
+            src: "https://qn.wshls.acgvideo.com/live-qn/621526/live_8120016_6048104.m3u8?wsSecret=38bb1d7b7f8297bd1ce02574ce61b0d7&wsTime=1526370684"
           }],
           controlBar: {
             timeDivider: false,
