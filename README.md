@@ -1,6 +1,6 @@
 # player
 
-> h5 && PC直播方案
+> [http://easywork.xin/2018/05/05/practice-1/](h5 && PC直播方案)
 
 ## Build Setup
 
