@@ -1,6 +1,7 @@
 # player
 
-> [http://easywork.xin/2018/05/05/practice-1/](h5 && PC直播方案)
+> h5 && PC直播方案
+> 博客解析-> http://easywork.xin/2018/05/05/practice-1/
 
 ## Build Setup
 
